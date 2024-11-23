@@ -49,8 +49,8 @@
 
 ![image](https://github.com/VARSHINI22009118/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/119401150/bff8325f-0682-4ec5-9252-593bbcf0d620)
 
-### Name:Iyyanar S
-### Register Number: 212222240036
+### Name:Joyce Beulah R
+### Register Number: 212222230058
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
